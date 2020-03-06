@@ -1,0 +1,1 @@
+C:\Users\Suraj\source\repos\LotteryDreamBook\LotteryDreamBook\LotteryDreamBook.UWP\LotteryDreamBook.UWP.csproj;x86

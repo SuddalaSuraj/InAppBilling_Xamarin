@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:LotteryDreamBook"
+             x:Class="LotteryDreamBook.MainPage">
+
+    <StackLayout
+        Padding="10">
+        <Label x:Name="responce_text"
+               Text=""
+               TextColor="Black"
+               FontSize="Medium"
+               HorizontalOptions="FillAndExpand"/>
+        <Button x:Name="buy_product"
+                Text="Buy Product"
+                Clicked="Buy_Clicked"
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="EndAndExpand"/>
+    </StackLayout>
+
+</ContentPage>

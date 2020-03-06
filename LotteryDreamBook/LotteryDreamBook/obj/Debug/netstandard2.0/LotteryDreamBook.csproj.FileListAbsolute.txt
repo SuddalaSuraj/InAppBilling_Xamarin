@@ -1,0 +1,12 @@
+C:\Users\Suraj\source\repos\LotteryDreamBook\LotteryDreamBook\LotteryDreamBook\obj\Debug\netstandard2.0\LotteryDreamBook.csprojAssemblyReference.cache
+C:\Users\Suraj\source\repos\LotteryDreamBook\LotteryDreamBook\LotteryDreamBook\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Suraj\source\repos\LotteryDreamBook\LotteryDreamBook\LotteryDreamBook\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Suraj\source\repos\LotteryDreamBook\LotteryDreamBook\LotteryDreamBook\obj\Debug\netstandard2.0\LotteryDreamBook.csproj.CoreCompileInputs.cache
+C:\Users\Suraj\source\repos\LotteryDreamBook\LotteryDreamBook\LotteryDreamBook\obj\Debug\netstandard2.0\LotteryDreamBook.AssemblyInfoInputs.cache
+C:\Users\Suraj\source\repos\LotteryDreamBook\LotteryDreamBook\LotteryDreamBook\obj\Debug\netstandard2.0\LotteryDreamBook.AssemblyInfo.cs
+C:\Users\Suraj\source\repos\LotteryDreamBook\LotteryDreamBook\LotteryDreamBook\bin\Debug\netstandard2.0\LotteryBillingTest.deps.json
+C:\Users\Suraj\source\repos\LotteryDreamBook\LotteryDreamBook\LotteryDreamBook\bin\Debug\netstandard2.0\LotteryBillingTest.dll
+C:\Users\Suraj\source\repos\LotteryDreamBook\LotteryDreamBook\LotteryDreamBook\bin\Debug\netstandard2.0\LotteryBillingTest.pdb
+C:\Users\Suraj\source\repos\LotteryDreamBook\LotteryDreamBook\LotteryDreamBook\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Suraj\source\repos\LotteryDreamBook\LotteryDreamBook\LotteryDreamBook\obj\Debug\netstandard2.0\LotteryBillingTest.dll
+C:\Users\Suraj\source\repos\LotteryDreamBook\LotteryDreamBook\LotteryDreamBook\obj\Debug\netstandard2.0\LotteryBillingTest.pdb
